@@ -29,7 +29,7 @@ Why? Because tempo control + ROM are strong proxies for **mind-muscle connection
 
  ## Motivation
 
-While training for the NPC Bikini category, I realized that replicating posing routines is extremely difficult.  
+While training I realized that replicating posing routines is extremely difficult.  
 Unlike standard lifts, poses require **precise control, symmetry, and tempo**, but athletes often lack objective feedback.  
 
 This project explores how computer vision can provide:
