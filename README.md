@@ -29,13 +29,13 @@ Why? Because tempo control + ROM are strong proxies for **mind-muscle connection
 
  ## Motivation
 
-While training I realized that replicating posing routines is extremely difficult.  
-Unlike standard lifts, poses require **precise control, symmetry, and tempo**, but athletes often lack objective feedback.  
+While training, I noticed that replicating certain exercises and posing routines can be challenging without feedback.
 
-This project explores how computer vision can provide:
-- Real-time angle detection (to compare left vs right side poses).  
-- Tempo tracking (to slow down transitions and hold poses correctly).  
-- Range of motion analysis (ensuring consistent posture between rounds).  
+This project explores how computer vision can help by providing:
 
-The long-term goal is to help athletes practice posing with the same kind of feedback we already use for strength training.
+Real-time angle detection to compare left and right side movements.
+
+Range of motion analysis to ensure consistent posture and form.
+
+The long-term goal is to give athletes actionable feedback that supports better training and performance.
 
