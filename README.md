@@ -27,13 +27,13 @@ Tech Stack
 
 Python
 
-OpenCV → video input/output
+OpenCV - video input/output
 
-MediaPipe → pose estimation
+MediaPipe - pose estimation
 
-NumPy / Pandas → metrics & analysis
+NumPy / Pandas - metrics & analysis
 
-Matplotlib / ReportLab → visualization & reports
+Matplotlib / ReportLab - visualization & reports
 
 Motivation
 
