@@ -45,3 +45,18 @@ Real-time angle detection for symmetry and posture
 Range of motion analysis for consistent movement quality
 
 The goal is to deliver actionable feedback that helps athletes train more effectively.
+
+
+ai-workout/
+├── datasets/
+│   ├── raw/
+│   ├── keypoints/
+│   └── README.md
+├── notebooks/
+│   └── keypoint_extraction.ipynb
+├── src/
+│   └── extract_keypoints.py
+├── .gitignore
+├── README.md
+└── LICENSE
+
