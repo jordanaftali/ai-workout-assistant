@@ -1,5 +1,20 @@
 Video Rep & Tempo Analyzer
 
+ai-workout/
+├── datasets/
+│   ├── raw/
+│   ├── keypoints/
+│   └── README.md
+├── notebooks/
+│   └── keypoint_extraction.ipynb
+├── src/
+│   └── extract_keypoints.py
+├── .gitignore
+├── README.md
+└── LICENSE
+
+
+
 A Python tool that uses pose estimation to analyze strength training reps from webcam or video.
 It detects joints, counts reps, measures range of motion (ROM) and tempo, and provides clear feedback such as:
 
@@ -47,16 +62,4 @@ Range of motion analysis for consistent movement quality
 The goal is to deliver actionable feedback that helps athletes train more effectively.
 
 
-ai-workout/
-├── datasets/
-│   ├── raw/
-│   ├── keypoints/
-│   └── README.md
-├── notebooks/
-│   └── keypoint_extraction.ipynb
-├── src/
-│   └── extract_keypoints.py
-├── .gitignore
-├── README.md
-└── LICENSE
 
